@@ -10,7 +10,7 @@ namespace TheOtherRoles.Patches {
     [HarmonyPatch]
     public static class CredentialsPatch {
         public static string fullCredentials = 
-$@"<size=130%><color=#ff351f>TheOtherRoles</color></size> v{TheOtherRolesPlugin.Version.ToString()}
+$@"<size=130%><color=#ff351f>The pLurchi Roles</color></size> v{TheOtherRolesPlugin.Version.ToString()}
 <size=80%>Modded by <color=#FCCE03FF>Eisbison</color>,
 <color=#FCCE03FF>Thunderstorm584</color> & <color=#FCCE03FF>EndOfFile</color>
 Button design by <color=#FCCE03FF>Bavari</color></size>";
